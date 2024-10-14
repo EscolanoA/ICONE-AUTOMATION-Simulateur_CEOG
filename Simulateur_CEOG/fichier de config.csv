@@ -1,0 +1,9 @@
+nom de l'instance;Machine;protocole;Mode;Configuration liaison;fichier echange
+MonServer1TCP;BEMS;Modbus TCP;Server;172.16.48.9|502|100;ConfigEquipementsCSV\BEMS Server.csv
+MonServer2TCP;BEMS;Modbus TCP;Server;172.16.48.9|502|100;ConfigEquipementsCSV\BEMS Server.csv
+MonClient1TCP;BEMS;Modbus TCP;Client;172.16.48.9|502|100;ConfigEquipementsCSV\BEMS Client.csv
+MonClient2TCP;BEMS;Modbus TCP;Client;172.16.48.9|502|100;ConfigEquipementsCSV\BEMS Client.csv
+MonServer1RTU;BEMS;Modbus RTU;Server;COM6|9600|0|1|2|100|502;ConfigEquipementsCSV\BEMS Server.csv
+MonServer2RTU;BEMS;Modbus RTU;Server;COM5|9600|0|1|3|100|502;ConfigEquipementsCSV\BEMS Server.csv
+MonClient1RTU;BEMS;Modbus RTU;Client;COM4|9600|0|1|2|100|502;ConfigEquipementsCSV\BEMS Client.csv
+MonClient2RTU;BEMS;Modbus RTU;Client;COM3|9600|0|1|3|100|502;ConfigEquipementsCSV\BEMS Client.csv

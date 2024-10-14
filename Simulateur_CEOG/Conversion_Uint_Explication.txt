@@ -1,0 +1,9 @@
+https://cryptii.com/pipes/integer-converter
+Faire conversion sur le site pour comprendre la logique
+
+Si Uint16 = 65535 alors In16 = -1
+Si Uint16 = 65534 alors In16 = -2
+Si Uint16 = 65533 alors In16 = -3
+Si Uint16 = 65532 alors In16 = -4
+Si Uint16 = 65531 alors In16 = -5
+...

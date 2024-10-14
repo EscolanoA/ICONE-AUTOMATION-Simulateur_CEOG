@@ -1,0 +1,29 @@
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\bin\Debug\Simulateur_CEOG.exe.config
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\bin\Debug\Simulateur_CEOG.exe
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\bin\Debug\Simulateur_CEOG.pdb
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.MenuForm.resources
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.csproj.GenerateResource.cache
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.exe
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.pdb
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.ModBus_TCP.BEMS.TCP_Form.resources
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.ModBus_TCP.BEMS.RTU_Form.resources
+C:\Users\Administrateur\Desktop\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.Profinet.Profinet_Form.resources
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\bin\Debug\Simulateur_CEOG.exe.config
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\bin\Debug\Simulateur_CEOG.exe
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\bin\Debug\Simulateur_CEOG.pdb
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.csproj.AssemblyReference.cache
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.csproj.SuggestedBindingRedirects.cache
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.MenuForm.resources
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.ModBus_TCP.BEMS.RTU_Form.resources
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.ModBus_TCP.BEMS.TCP_Form.resources
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.Profinet.Profinet_Form.resources
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.Properties.Resources.resources
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.csproj.GenerateResource.cache
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.csproj.CoreCompileInputs.cache
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.csproj.CopyComplete
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.exe
+G:\Stage 2eme Annee\FINISHED PROJECTS\Simulateur_CEOG\obj\Debug\Simulateur_CEOG.pdb

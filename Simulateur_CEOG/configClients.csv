@@ -1,0 +1,3 @@
+nom de l'instance;Machine;protocole;Mode;Configuration liaison;fichier echange
+MonClient1;BEMS;Modbus TCP;Client;172.18.66.81|502|100;ConfigEquipementsCSV\BEMS Client.csv
+MonClient2;BEMS;Modbus TCP;Client;172.18.66.81|502|100;ConfigEquipementsCSV\BEMS Client.csv

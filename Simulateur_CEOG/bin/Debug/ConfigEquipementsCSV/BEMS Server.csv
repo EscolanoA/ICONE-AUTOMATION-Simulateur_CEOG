@@ -1,0 +1,16 @@
+﻿Nom;Type;Adresse;Read/Write
+U16 RW;U16;1;RW
+U32 RW;U32;2;RW
+I16 RW;I16;4;RW
+I32 RW;I32;5;RW
+float RW;Float;7;RW
+U16 W;U16;9;W
+U32 W;U32;10;W
+I16 W;I16;12;W
+I32 W;I32;13;W
+float W;Float;15;W
+U16 R;U16;17;R
+U32 R;U32;18;R
+I16 R;I16;20;R
+I32 R;I32;21;R
+float R;Float;23;R
